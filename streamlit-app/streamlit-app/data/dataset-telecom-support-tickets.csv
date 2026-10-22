@@ -1,0 +1,121 @@
+id,date,department,rating,channel,customer_type,feedback,sentiment
+1,2026-05-03,Technical Support,5,Phone,Consumer,"Great service, my connection is working perfectly now. The agent was extremely helpful and resolved my issue quickly.",positive
+2,2026-05-05,Sales,2,Phone,Premium,"Terrible service, the problem is still not fixed. The agent was rude and unhelpful.",negative
+3,2026-05-06,Billing,3,Phone,Premium,"Requested a router upgrade, awaiting a date.",neutral
+4,2026-05-07,Billing,1,Chat,Business,"My internet keeps dropping, completely unacceptable. The agent was rude and unhelpful.",negative
+5,2026-05-08,Technical Support,5,Social Media,Business,The technician was friendly and the fix was smooth. The agent was extremely helpful and resolved my issue quickly.,positive
+6,2026-05-10,Technical Support,4,Social Media,Consumer,"Problem solved on the first call, I am impressed. The technician was friendly and the fix was smooth.",positive
+7,2026-05-11,Billing,1,Email,Business,I have been waiting two weeks and nobody responded. I was charged twice and the refund is still missing.,negative
+8,2026-05-12,Billing,4,Chat,Consumer,"Great service, my connection is working perfectly now.",positive
+9,2026-05-13,Sales,1,Email,Premium,I was charged twice and the refund is still missing.,negative
+10,2026-05-15,Billing,5,Phone,Business,"The agent was extremely helpful and resolved my issue quickly. Great service, my connection is working perfectly now.",positive
+11,2026-05-16,Technical Support,3,Phone,Premium,"The agent answered quickly, but the issue came back the next day",neutral
+12,2026-05-17,Sales,1,Chat,Consumer,The agent was rude and unhelpful.,negative
+13,2026-05-18,Technical Support,3,Chat,Premium,"The agent answered quickly, but mhe wait on hold was long",neutral
+14,2026-05-20,Billing,1,Phone,Premium,I was charged twice and the refund is still missing. I have been waiting two weeks and nobody responded.,negative
+15,2026-05-21,Retention,2,Phone,Consumer,"My internet keeps dropping, completely unacceptable. I have been waiting two weeks and nobody responded.",negative
+16,2026-05-22,Retention,1,Phone,Premium,The agent was rude and unhelpful.,negative
+17,2026-05-23,Retention,3,Phone,Premium,Please send me a copy of last month's invoice.,neutral
+18,2026-05-25,Technical Support,5,Phone,Business,"The agent was extremely helpful and resolved my issue quickly. Excellent support, I am satisfied with the outcome.",positive
+19,2026-05-26,Billing,5,Social Media,Premium,"Great service, my connection is working perfectly now.",positive
+20,2026-05-27,Retention,5,Email,Premium,"Very professional team, thank you for the fast response. The agent was extremely helpful and resolved my issue quickly.",positive
+21,2026-05-28,Sales,5,Chat,Premium,"Great service, my connection is working perfectly now. Very professional team, thank you for the fast response.",positive
+22,2026-05-30,Retention,1,Chat,Consumer,"Terrible service, the problem is still not fixed.",negative
+23,2026-05-31,Retention,1,Social Media,Business,"Frustrating experience, I was transferred five times.",negative
+24,2026-06-01,Technical Support,5,Chat,Consumer,"Great service, my connection is working perfectly now.",positive
+25,2026-06-02,Billing,1,Phone,Consumer,Billing was wrong again and support ignored my emails.,negative
+26,2026-06-04,Sales,5,Chat,Premium,"Problem solved on the first call, I am impressed. The technician was friendly and the fix was smooth.",positive
+27,2026-06-05,Billing,1,Phone,Consumer,"Frustrating experience, I was transferred five times. My internet keeps dropping, completely unacceptable.",negative
+28,2026-06-06,Sales,4,Chat,Consumer,"Very professional team, thank you for the fast response.",positive
+29,2026-06-07,Technical Support,4,Email,Premium,"Problem solved on the first call, I am impressed. Very professional team, thank you for the fast response.",positive
+30,2026-06-09,Technical Support,2,Phone,Consumer,I have been waiting two weeks and nobody responded. I was charged twice and the refund is still missing.,negative
+31,2026-06-10,Technical Support,3,Chat,Consumer,I would like to change my package.,neutral
+32,2026-06-11,Technical Support,5,Chat,Consumer,"Very professional team, thank you for the fast response. Great service, my connection is working perfectly now.",positive
+33,2026-06-12,Retention,4,Social Media,Business,"Problem solved on the first call, I am impressed. The technician was friendly and the fix was smooth.",positive
+34,2026-06-14,Technical Support,4,Phone,Consumer,The agent was extremely helpful and resolved my issue quickly.,positive
+35,2026-06-15,Retention,1,Email,Premium,"Frustrating experience, I was transferred five times. The agent was rude and unhelpful.",negative
+36,2026-06-16,Technical Support,2,Social Media,Premium,"Frustrating experience, I was transferred five times. I was charged twice and the refund is still missing.",negative
+37,2026-06-17,Retention,3,Email,Premium,The ticket was logged and a reference number was given.,neutral
+38,2026-06-19,Sales,3,Phone,Premium,"The technician was polite, but the wait on hold was long",neutral
+39,2026-06-20,Technical Support,4,Phone,Consumer,"Great service, my connection is working perfectly now. Excellent support, I am satisfied with the outcome.",positive
+40,2026-06-21,Technical Support,5,Phone,Consumer,"Very professional team, thank you for the fast response.",positive
+41,2026-06-22,Technical Support,4,Phone,Business,"Great service, my connection is working perfectly now. Problem solved on the first call, I am impressed.",positive
+42,2026-06-24,Sales,5,Social Media,Premium,"Great service, my connection is working perfectly now.",positive
+43,2026-06-25,Retention,5,Phone,Business,"Great service, my connection is working perfectly now. Excellent support, I am satisfied with the outcome.",positive
+44,2026-06-26,Billing,5,Email,Business,"Excellent support, I am satisfied with the outcome. Very professional team, thank you for the fast response.",positive
+45,2026-06-27,Sales,5,Social Media,Premium,"The technician was friendly and the fix was smooth. Excellent support, I am satisfied with the outcome.",positive
+46,2026-06-29,Billing,1,Social Media,Premium,"Terrible service, the problem is still not fixed. I have been waiting two weeks and nobody responded.",negative
+47,2026-06-30,Retention,3,Phone,Premium,"The new plan is good, but the app keeps crashing",neutral
+48,2026-07-01,Technical Support,1,Social Media,Consumer,I have been waiting two weeks and nobody responded.,negative
+49,2026-07-02,Retention,4,Social Media,Premium,The agent was extremely helpful and resolved my issue quickly.,positive
+50,2026-07-04,Retention,2,Chat,Business,"Terrible service, the problem is still not fixed. Frustrating experience, I was transferred five times.",negative
+51,2026-07-05,Billing,3,Social Media,Consumer,Please send me a copy of last month's invoice.,neutral
+52,2026-07-06,Billing,1,Social Media,Consumer,"Billing was wrong again and support ignored my emails. My internet keeps dropping, completely unacceptable.",negative
+53,2026-07-07,Billing,5,Email,Consumer,"The agent was extremely helpful and resolved my issue quickly. Excellent support, I am satisfied with the outcome.",positive
+54,2026-07-09,Technical Support,2,Social Media,Premium,The agent was rude and unhelpful. Billing was wrong again and support ignored my emails.,negative
+55,2026-07-10,Retention,4,Email,Premium,"Great service, my connection is working perfectly now. Very professional team, thank you for the fast response.",positive
+56,2026-07-11,Sales,5,Email,Consumer,The technician was friendly and the fix was smooth. The agent was extremely helpful and resolved my issue quickly.,positive
+57,2026-07-12,Technical Support,4,Phone,Premium,"Very professional team, thank you for the fast response. Great service, my connection is working perfectly now.",positive
+58,2026-07-14,Retention,1,Phone,Premium,I have been waiting two weeks and nobody responded. Billing was wrong again and support ignored my emails.,negative
+59,2026-07-15,Retention,2,Email,Business,"Terrible service, the problem is still not fixed. Frustrating experience, I was transferred five times.",negative
+60,2026-07-16,Sales,4,Email,Premium,The agent was extremely helpful and resolved my issue quickly.,positive
+61,2026-07-17,Sales,5,Phone,Premium,"Very professional team, thank you for the fast response.",positive
+62,2026-07-19,Billing,5,Chat,Consumer,"Problem solved on the first call, I am impressed. The agent was extremely helpful and resolved my issue quickly.",positive
+63,2026-07-20,Retention,2,Phone,Business,I was charged twice and the refund is still missing. The agent was rude and unhelpful.,negative
+64,2026-07-21,Billing,3,Phone,Business,The ticket was logged and a reference number was given.,neutral
+65,2026-07-22,Sales,3,Chat,Business,"The new plan is good, but mhe issue came back the next day",neutral
+66,2026-07-24,Retention,3,Email,Consumer,Please send me a copy of last month's invoice.,neutral
+67,2026-07-25,Technical Support,5,Social Media,Premium,"Excellent support, I am satisfied with the outcome. The agent was extremely helpful and resolved my issue quickly.",positive
+68,2026-07-26,Retention,5,Email,Premium,"Problem solved on the first call, I am impressed. The agent was extremely helpful and resolved my issue quickly.",positive
+69,2026-07-27,Retention,3,Social Media,Business,The ticket was logged and a reference number was given.,neutral
+70,2026-07-29,Technical Support,3,Chat,Premium,"Requested a router upgrade, awaiting a date.",neutral
+71,2026-07-30,Billing,5,Social Media,Premium,"Excellent support, I am satisfied with the outcome.",positive
+72,2026-07-31,Sales,3,Phone,Business,"The technician was polite, but the app keeps crashing",neutral
+73,2026-08-01,Technical Support,1,Chat,Consumer,The agent was rude and unhelpful. I have been waiting two weeks and nobody responded.,negative
+74,2026-08-03,Billing,5,Phone,Premium,"The technician was friendly and the fix was smooth. Excellent support, I am satisfied with the outcome.",positive
+75,2026-08-04,Billing,1,Phone,Consumer,I have been waiting two weeks and nobody responded. I was charged twice and the refund is still missing.,negative
+76,2026-08-05,Technical Support,5,Phone,Premium,The technician was friendly and the fix was smooth.,positive
+77,2026-08-06,Technical Support,5,Social Media,Business,"Very professional team, thank you for the fast response.",positive
+78,2026-08-08,Retention,5,Chat,Consumer,"The technician was friendly and the fix was smooth. Problem solved on the first call, I am impressed.",positive
+79,2026-08-09,Billing,4,Social Media,Business,"Excellent support, I am satisfied with the outcome.",positive
+80,2026-08-10,Sales,5,Email,Business,The technician was friendly and the fix was smooth.,positive
+81,2026-08-11,Billing,5,Chat,Consumer,The agent was extremely helpful and resolved my issue quickly.,positive
+82,2026-08-13,Billing,4,Social Media,Business,"Problem solved on the first call, I am impressed. The agent was extremely helpful and resolved my issue quickly.",positive
+83,2026-08-14,Billing,5,Chat,Business,"Very professional team, thank you for the fast response.",positive
+84,2026-08-15,Billing,5,Email,Premium,"Excellent support, I am satisfied with the outcome. The agent was extremely helpful and resolved my issue quickly.",positive
+85,2026-08-16,Technical Support,2,Social Media,Premium,"Support was helpful, but the issue came back the next day",neutral
+86,2026-08-18,Retention,1,Chat,Premium,"Terrible service, the problem is still not fixed. I have been waiting two weeks and nobody responded.",negative
+87,2026-08-19,Retention,5,Email,Premium,"The technician was friendly and the fix was smooth. Excellent support, I am satisfied with the outcome.",positive
+88,2026-08-20,Retention,1,Chat,Business,I was charged twice and the refund is still missing. The agent was rude and unhelpful.,negative
+89,2026-08-21,Billing,5,Email,Premium,"Very professional team, thank you for the fast response.",positive
+90,2026-08-23,Retention,1,Chat,Premium,Billing was wrong again and support ignored my emails.,negative
+91,2026-08-24,Technical Support,1,Phone,Consumer,"The agent was rude and unhelpful. My internet keeps dropping, completely unacceptable.",negative
+92,2026-08-25,Retention,4,Chat,Premium,"The technician was polite, but the app keeps crashing",neutral
+93,2026-08-26,Retention,5,Email,Premium,"Very professional team, thank you for the fast response. The agent was extremely helpful and resolved my issue quickly.",positive
+94,2026-08-28,Sales,4,Phone,Consumer,"The new plan is good, but mhe wait on hold was long",neutral
+95,2026-08-29,Retention,1,Email,Consumer,"My internet keeps dropping, completely unacceptable. I was charged twice and the refund is still missing.",negative
+96,2026-08-30,Technical Support,5,Chat,Consumer,The agent was extremely helpful and resolved my issue quickly.,positive
+97,2026-08-31,Sales,5,Email,Premium,"Great service, my connection is working perfectly now.",positive
+98,2026-09-02,Retention,1,Phone,Premium,Billing was wrong again and support ignored my emails.,negative
+99,2026-09-03,Billing,1,Email,Premium,The agent was rude and unhelpful.,negative
+100,2026-09-04,Technical Support,3,Phone,Consumer,"Requested a router upgrade, awaiting a date.",neutral
+101,2026-09-05,Billing,2,Chat,Consumer,"Support was helpful, but the wait on hold was long",neutral
+102,2026-09-07,Sales,4,Phone,Business,"Excellent support, I am satisfied with the outcome. The technician was friendly and the fix was smooth.",positive
+103,2026-09-08,Retention,3,Email,Consumer,"Requested a router upgrade, awaiting a date.",neutral
+104,2026-09-09,Sales,5,Chat,Business,"Great service, my connection is working perfectly now. Problem solved on the first call, I am impressed.",positive
+105,2026-09-10,Technical Support,5,Email,Consumer,"The agent was extremely helpful and resolved my issue quickly. Excellent support, I am satisfied with the outcome.",positive
+106,2026-09-12,Technical Support,4,Social Media,Consumer,The technician was friendly and the fix was smooth. The agent was extremely helpful and resolved my issue quickly.,positive
+107,2026-09-13,Technical Support,3,Social Media,Business,"Requested a router upgrade, awaiting a date.",neutral
+108,2026-09-14,Retention,5,Social Media,Premium,The agent was extremely helpful and resolved my issue quickly.,positive
+109,2026-09-15,Sales,3,Email,Premium,Please send me a copy of last month's invoice.,neutral
+110,2026-09-17,Billing,2,Email,Premium,"Terrible service, the problem is still not fixed. My internet keeps dropping, completely unacceptable.",negative
+111,2026-09-18,Billing,5,Phone,Consumer,"Great service, my connection is working perfectly now.",positive
+112,2026-09-19,Billing,4,Chat,Business,"The technician was friendly and the fix was smooth. Problem solved on the first call, I am impressed.",positive
+113,2026-09-20,Technical Support,2,Email,Consumer,"The agent answered quickly, but the app keeps crashing",neutral
+114,2026-09-22,Billing,5,Social Media,Business,"The agent was extremely helpful and resolved my issue quickly. Great service, my connection is working perfectly now.",positive
+115,2026-09-23,Technical Support,3,Chat,Consumer,Please send me a copy of last month's invoice.,neutral
+116,2026-09-24,Retention,5,Chat,Consumer,The technician was friendly and the fix was smooth.,positive
+117,2026-09-25,Billing,4,Phone,Consumer,"The new plan is good, but the wait on hold was long",neutral
+118,2026-09-27,Billing,1,Email,Business,"The agent was rude and unhelpful. Terrible service, the problem is still not fixed.",negative
+119,2026-09-28,Retention,3,Chat,Premium,I would like to change my package.,neutral
+120,2026-09-29,Technical Support,5,Email,Business,"Problem solved on the first call, I am impressed. The agent was extremely helpful and resolved my issue quickly.",positive

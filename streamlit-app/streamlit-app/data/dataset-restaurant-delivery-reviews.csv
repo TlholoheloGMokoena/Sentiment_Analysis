@@ -1,0 +1,121 @@
+id,date,restaurant,category,rating,location,channel,review,sentiment
+1,2026-05-03,Smash Burger Co,Burgers,1,Midrand,Website,"Terrible portion size for the price. The packaging leaked everywhere, what a mess.",negative
+2,2026-05-05,Napoli Slice,Pizza,5,Midrand,Website,Delivery was fast and the driver was friendly. The food arrived hot and tasted excellent.,positive
+3,2026-05-06,Smash Burger Co,Burgers,2,Sandton,App,"The packaging leaked everywhere, what a mess.",negative
+4,2026-05-07,Napoli Slice,Pizza,1,Midrand,App,"Awful experience, the Napoli Slice meal was bland.",negative
+5,2026-05-08,Napoli Slice,Pizza,3,Bryanston,Phone,"Portions were generous, but delivery was slow",neutral
+6,2026-05-10,Spice Route,Indian,2,Bryanston,App,"The Spice Route dish was good, but ihe packaging was poor",neutral
+7,2026-05-11,Green Bowl,Healthy,5,Rosebank,App,"Amazing Green Bowl meal, highly recommend.",positive
+8,2026-05-12,Smash Burger Co,Burgers,3,Centurion,Website,"Portions were generous, but telivery was slow",neutral
+9,2026-05-13,Spice Route,Indian,4,Sandton,App,"Fresh ingredients, absolutely delicious!",positive
+10,2026-05-15,Spice Route,Indian,5,Midrand,App,"Delivery was fast and the driver was friendly. Love the flavours, I will order again.",positive
+11,2026-05-16,Napoli Slice,Pizza,5,Centurion,Phone,"The food arrived hot and tasted excellent. Fresh ingredients, absolutely delicious!",positive
+12,2026-05-17,Green Bowl,Healthy,1,Sandton,App,Delivery was very late and nobody updated me.,negative
+13,2026-05-18,Napoli Slice,Pizza,5,Bryanston,App,"Amazing Napoli Slice meal, highly recommend.",positive
+14,2026-05-20,Spice Route,Indian,5,Midrand,Website,The food arrived hot and tasted excellent.,positive
+15,2026-05-21,Napoli Slice,Pizza,1,Rosebank,Website,"Awful experience, the Napoli Slice meal was bland. The packaging leaked everywhere, what a mess.",negative
+16,2026-05-22,Napoli Slice,Pizza,1,Bryanston,Website,"Rude driver and a missing item, very disappointed.",negative
+17,2026-05-23,Spice Route,Indian,4,Rosebank,Phone,The food arrived hot and tasted excellent.,positive
+18,2026-05-25,Smash Burger Co,Burgers,4,Rosebank,App,Portions were generous and great value. The packaging was neat and nothing leaked.,positive
+19,2026-05-26,Smash Burger Co,Burgers,3,Rosebank,App,Used a voucher code at checkout.,neutral
+20,2026-05-27,Spice Route,Indian,4,Centurion,Website,"Fresh ingredients, absolutely delicious! Delivery was fast and the driver was friendly.",positive
+21,2026-05-28,Napoli Slice,Pizza,5,Midrand,App,"Fresh ingredients, absolutely delicious!",positive
+22,2026-05-30,Spice Route,Indian,4,Bryanston,App,"Love the flavours, I will order again. Portions were generous and great value.",positive
+23,2026-05-31,Green Bowl,Healthy,5,Sandton,Phone,The food arrived hot and tasted excellent.,positive
+24,2026-06-01,Napoli Slice,Pizza,3,Sandton,Website,Delivery took about forty minutes.,neutral
+25,2026-06-02,Spice Route,Indian,3,Bryanston,Phone,Used a voucher code at checkout.,neutral
+26,2026-06-04,Spice Route,Indian,5,Bryanston,Phone,The food arrived hot and tasted excellent.,positive
+27,2026-06-05,Green Bowl,Healthy,5,Centurion,Phone,"Fresh ingredients, absolutely delicious! Amazing Green Bowl meal, highly recommend.",positive
+28,2026-06-06,Spice Route,Indian,4,Centurion,App,"Love the flavours, I will order again.",positive
+29,2026-06-07,Green Bowl,Healthy,4,Bryanston,App,The packaging was neat and nothing leaked.,positive
+30,2026-06-09,Green Bowl,Healthy,5,Bryanston,App,"Delivery was fast and the driver was friendly. Love the flavours, I will order again.",positive
+31,2026-06-10,Green Bowl,Healthy,5,Centurion,App,"Fresh ingredients, absolutely delicious!",positive
+32,2026-06-11,Spice Route,Indian,5,Centurion,Phone,"Delivery was fast and the driver was friendly. Fresh ingredients, absolutely delicious!",positive
+33,2026-06-12,Smash Burger Co,Burgers,5,Midrand,Website,Portions were generous and great value.,positive
+34,2026-06-14,Green Bowl,Healthy,2,Centurion,App,"The meal was great, but ihe app was confusing",neutral
+35,2026-06-15,Napoli Slice,Pizza,3,Sandton,Phone,I ordered the usual meal on Friday evening.,neutral
+36,2026-06-16,Napoli Slice,Pizza,5,Midrand,Phone,Portions were generous and great value. Delivery was fast and the driver was friendly.,positive
+37,2026-06-17,Spice Route,Indian,5,Bryanston,Phone,"Amazing Spice Route meal, highly recommend. Portions were generous and great value.",positive
+38,2026-06-19,Napoli Slice,Pizza,5,Bryanston,Phone,"Delivery was fast and the driver was friendly. Fresh ingredients, absolutely delicious!",positive
+39,2026-06-20,Green Bowl,Healthy,5,Rosebank,App,The food arrived hot and tasted excellent.,positive
+40,2026-06-21,Smash Burger Co,Burgers,2,Centurion,Phone,"The packaging leaked everywhere, what a mess. Order was wrong and support ignored my complaint.",negative
+41,2026-06-22,Spice Route,Indian,5,Rosebank,App,"The packaging was neat and nothing leaked. Fresh ingredients, absolutely delicious!",positive
+42,2026-06-24,Smash Burger Co,Burgers,2,Bryanston,App,"The packaging leaked everywhere, what a mess.",negative
+43,2026-06-25,Smash Burger Co,Burgers,1,Midrand,Phone,"The packaging leaked everywhere, what a mess. Rude driver and a missing item, very disappointed.",negative
+44,2026-06-26,Green Bowl,Healthy,2,Centurion,Phone,"The packaging leaked everywhere, what a mess.",negative
+45,2026-06-27,Smash Burger Co,Burgers,2,Midrand,Website,Order was wrong and support ignored my complaint.,negative
+46,2026-06-29,Napoli Slice,Pizza,4,Sandton,Phone,The packaging was neat and nothing leaked.,positive
+47,2026-06-30,Spice Route,Indian,4,Rosebank,App,"The packaging was neat and nothing leaked. Amazing Spice Route meal, highly recommend.",positive
+48,2026-07-01,Smash Burger Co,Burgers,3,Centurion,Website,"Portions were generous, but tt was expensive",neutral
+49,2026-07-02,Smash Burger Co,Burgers,3,Centurion,App,I ordered the usual meal on Friday evening.,neutral
+50,2026-07-04,Spice Route,Indian,4,Centurion,Phone,Delivery was fast and the driver was friendly.,positive
+51,2026-07-05,Green Bowl,Healthy,5,Midrand,Phone,"The food arrived hot and tasted excellent. Fresh ingredients, absolutely delicious!",positive
+52,2026-07-06,Green Bowl,Healthy,3,Bryanston,Phone,Used a voucher code at checkout.,neutral
+53,2026-07-07,Napoli Slice,Pizza,4,Rosebank,Phone,The packaging was neat and nothing leaked.,positive
+54,2026-07-09,Green Bowl,Healthy,1,Sandton,App,"The packaging leaked everywhere, what a mess. Order was wrong and support ignored my complaint.",negative
+55,2026-07-10,Napoli Slice,Pizza,5,Bryanston,Phone,Portions were generous and great value.,positive
+56,2026-07-11,Napoli Slice,Pizza,4,Centurion,App,The food arrived hot and tasted excellent.,positive
+57,2026-07-12,Green Bowl,Healthy,4,Sandton,App,"Amazing Green Bowl meal, highly recommend.",positive
+58,2026-07-14,Smash Burger Co,Burgers,4,Centurion,Phone,The food arrived hot and tasted excellent.,positive
+59,2026-07-15,Spice Route,Indian,5,Centurion,Website,"Love the flavours, I will order again.",positive
+60,2026-07-16,Smash Burger Co,Burgers,2,Sandton,App,"The Smash Burger Co dish was good, but tt was expensive",neutral
+61,2026-07-17,Napoli Slice,Pizza,5,Sandton,Phone,"Love the flavours, I will order again. Portions were generous and great value.",positive
+62,2026-07-19,Spice Route,Indian,5,Midrand,Phone,"Amazing Spice Route meal, highly recommend.",positive
+63,2026-07-20,Napoli Slice,Pizza,5,Bryanston,App,"Amazing Napoli Slice meal, highly recommend. Portions were generous and great value.",positive
+64,2026-07-21,Green Bowl,Healthy,1,Rosebank,App,"Awful experience, the Green Bowl meal was bland. Terrible portion size for the price.",negative
+65,2026-07-22,Green Bowl,Healthy,5,Rosebank,Website,The food arrived hot and tasted excellent.,positive
+66,2026-07-24,Green Bowl,Healthy,5,Midrand,Website,The packaging was neat and nothing leaked. Delivery was fast and the driver was friendly.,positive
+67,2026-07-25,Napoli Slice,Pizza,3,Centurion,Website,"Portions were generous, but delivery was slow",neutral
+68,2026-07-26,Smash Burger Co,Burgers,3,Sandton,Website,The order came in a standard paper bag.,neutral
+69,2026-07-27,Green Bowl,Healthy,5,Bryanston,Phone,"The packaging was neat and nothing leaked. Amazing Green Bowl meal, highly recommend.",positive
+70,2026-07-29,Spice Route,Indian,4,Rosebank,Website,"Fresh ingredients, absolutely delicious!",positive
+71,2026-07-30,Spice Route,Indian,5,Centurion,Phone,"Fresh ingredients, absolutely delicious! Portions were generous and great value.",positive
+72,2026-07-31,Green Bowl,Healthy,5,Sandton,App,The packaging was neat and nothing leaked. Portions were generous and great value.,positive
+73,2026-08-01,Napoli Slice,Pizza,5,Centurion,Phone,"Fresh ingredients, absolutely delicious!",positive
+74,2026-08-03,Smash Burger Co,Burgers,5,Centurion,App,The food arrived hot and tasted excellent. Delivery was fast and the driver was friendly.,positive
+75,2026-08-04,Spice Route,Indian,5,Sandton,Phone,"Delivery was fast and the driver was friendly. Amazing Spice Route meal, highly recommend.",positive
+76,2026-08-05,Smash Burger Co,Burgers,2,Centurion,Website,"Tasty food and friendly driver, but dhe packaging was poor",neutral
+77,2026-08-06,Napoli Slice,Pizza,3,Centurion,Phone,"Portions were generous, but the app was confusing",neutral
+78,2026-08-08,Napoli Slice,Pizza,5,Centurion,Website,The packaging was neat and nothing leaked.,positive
+79,2026-08-09,Napoli Slice,Pizza,3,Sandton,Phone,"Tasty food and friendly driver, but it was expensive",neutral
+80,2026-08-10,Spice Route,Indian,5,Rosebank,Phone,"Fresh ingredients, absolutely delicious! The food arrived hot and tasted excellent.",positive
+81,2026-08-11,Green Bowl,Healthy,4,Centurion,Website,"Love the flavours, I will order again.",positive
+82,2026-08-13,Smash Burger Co,Burgers,5,Sandton,Website,"Portions were generous and great value. Fresh ingredients, absolutely delicious!",positive
+83,2026-08-14,Napoli Slice,Pizza,5,Centurion,Phone,"Fresh ingredients, absolutely delicious! Delivery was fast and the driver was friendly.",positive
+84,2026-08-15,Napoli Slice,Pizza,5,Midrand,App,The packaging was neat and nothing leaked. The food arrived hot and tasted excellent.,positive
+85,2026-08-16,Smash Burger Co,Burgers,3,Sandton,App,"It was a regular Smash Burger Co order, nothing to add.",neutral
+86,2026-08-18,Green Bowl,Healthy,5,Centurion,App,"Love the flavours, I will order again.",positive
+87,2026-08-19,Napoli Slice,Pizza,5,Midrand,Phone,Portions were generous and great value. The food arrived hot and tasted excellent.,positive
+88,2026-08-20,Green Bowl,Healthy,4,Sandton,Website,"Fresh ingredients, absolutely delicious! Portions were generous and great value.",positive
+89,2026-08-21,Green Bowl,Healthy,4,Bryanston,Phone,"The packaging was neat and nothing leaked. Fresh ingredients, absolutely delicious!",positive
+90,2026-08-23,Napoli Slice,Pizza,3,Bryanston,Website,Used a voucher code at checkout.,neutral
+91,2026-08-24,Spice Route,Indian,4,Sandton,Phone,The packaging was neat and nothing leaked.,positive
+92,2026-08-25,Smash Burger Co,Burgers,4,Centurion,Phone,"Amazing Smash Burger Co meal, highly recommend. The packaging was neat and nothing leaked.",positive
+93,2026-08-26,Spice Route,Indian,4,Rosebank,Phone,"The meal was great, but dt was expensive",neutral
+94,2026-08-28,Napoli Slice,Pizza,5,Centurion,Phone,"Amazing Napoli Slice meal, highly recommend. Fresh ingredients, absolutely delicious!",positive
+95,2026-08-29,Napoli Slice,Pizza,5,Centurion,App,"Love the flavours, I will order again.",positive
+96,2026-08-30,Smash Burger Co,Burgers,2,Sandton,App,"The packaging leaked everywhere, what a mess. Rude driver and a missing item, very disappointed.",negative
+97,2026-08-31,Smash Burger Co,Burgers,1,Rosebank,Website,Delivery was very late and nobody updated me.,negative
+98,2026-09-02,Napoli Slice,Pizza,5,Centurion,Phone,Portions were generous and great value. The food arrived hot and tasted excellent.,positive
+99,2026-09-03,Napoli Slice,Pizza,3,Midrand,Website,The order came in a standard paper bag.,neutral
+100,2026-09-04,Spice Route,Indian,5,Midrand,Phone,Delivery was fast and the driver was friendly.,positive
+101,2026-09-05,Smash Burger Co,Burgers,3,Bryanston,App,The order came in a standard paper bag.,neutral
+102,2026-09-07,Green Bowl,Healthy,2,Bryanston,App,"Portions were generous, but the app was confusing",neutral
+103,2026-09-08,Smash Burger Co,Burgers,5,Sandton,Phone,"Amazing Smash Burger Co meal, highly recommend.",positive
+104,2026-09-09,Napoli Slice,Pizza,2,Midrand,App,Order was wrong and support ignored my complaint. Terrible portion size for the price.,negative
+105,2026-09-10,Smash Burger Co,Burgers,5,Midrand,Phone,Delivery was fast and the driver was friendly. Portions were generous and great value.,positive
+106,2026-09-12,Spice Route,Indian,4,Sandton,Website,The food arrived hot and tasted excellent.,positive
+107,2026-09-13,Green Bowl,Healthy,3,Sandton,App,"The meal was great, but the app was confusing",neutral
+108,2026-09-14,Smash Burger Co,Burgers,5,Midrand,Website,"Amazing Smash Burger Co meal, highly recommend.",positive
+109,2026-09-15,Smash Burger Co,Burgers,5,Bryanston,Phone,"Portions were generous and great value. Amazing Smash Burger Co meal, highly recommend.",positive
+110,2026-09-17,Spice Route,Indian,5,Sandton,Phone,The food arrived hot and tasted excellent.,positive
+111,2026-09-18,Smash Burger Co,Burgers,5,Midrand,App,"Love the flavours, I will order again. Amazing Smash Burger Co meal, highly recommend.",positive
+112,2026-09-19,Smash Burger Co,Burgers,1,Midrand,Phone,"The packaging leaked everywhere, what a mess.",negative
+113,2026-09-20,Green Bowl,Healthy,1,Rosebank,Website,"The packaging leaked everywhere, what a mess. Rude driver and a missing item, very disappointed.",negative
+114,2026-09-22,Spice Route,Indian,5,Bryanston,Website,"The packaging was neat and nothing leaked. Fresh ingredients, absolutely delicious!",positive
+115,2026-09-23,Spice Route,Indian,5,Rosebank,App,Delivery was fast and the driver was friendly.,positive
+116,2026-09-24,Smash Burger Co,Burgers,4,Sandton,App,"The packaging was neat and nothing leaked. Love the flavours, I will order again.",positive
+117,2026-09-25,Spice Route,Indian,5,Rosebank,App,Portions were generous and great value.,positive
+118,2026-09-27,Smash Burger Co,Burgers,3,Rosebank,Phone,"Portions were generous, but dhe app was confusing",neutral
+119,2026-09-28,Spice Route,Indian,5,Sandton,Phone,Portions were generous and great value.,positive
+120,2026-09-29,Smash Burger Co,Burgers,4,Centurion,Phone,"Amazing Smash Burger Co meal, highly recommend. Portions were generous and great value.",positive

@@ -1,0 +1,121 @@
+id,date,product,rating,location,channel,review,sentiment
+1,2026-05-03,InvestEasy,5,Durban,Web,Transfers are instant and reliable.,positive
+2,2026-05-05,InvestEasy,5,Pretoria,iOS,The budgeting tools are brilliant and worth it. The app is easy to use and very fast.,positive
+3,2026-05-06,InvestEasy,3,Johannesburg,iOS,"The interface is smooth, but verification took too long",neutral
+4,2026-05-07,QuickCard,1,Durban,iOS,"Login is broken after the update, useless. The app keeps crashing every time I log in.",negative
+5,2026-05-08,InvestEasy,5,Pretoria,Android,Transfers are instant and reliable.,positive
+6,2026-05-10,Pay & Save,2,Johannesburg,Android,"The app looks nice, but vhe fees are expensive",neutral
+7,2026-05-11,Pay & Save,4,Pretoria,Web,"Transfers are instant and reliable. Love the new design, everything is smooth.",positive
+8,2026-05-12,QuickCard,1,Pretoria,Android,"Terrible support, they never answered my ticket. Hidden fees are unacceptable, I feel scammed.",negative
+9,2026-05-13,QuickCard,5,Durban,Web,The app is easy to use and very fast.,positive
+10,2026-05-15,Pay & Save,2,Pretoria,Android,The app keeps crashing every time I log in. My payment failed and the money went missing.,negative
+11,2026-05-16,QuickCard,1,Johannesburg,Android,"Terrible support, they never answered my ticket. Hidden fees are unacceptable, I feel scammed.",negative
+12,2026-05-17,QuickCard,2,Durban,Web,"Login is broken after the update, useless. The app keeps crashing every time I log in.",negative
+13,2026-05-18,Pay & Save,3,Durban,Web,Opened an account last week and linked my card.,neutral
+14,2026-05-20,InvestEasy,2,Johannesburg,iOS,"The app looks nice, but ihe login is confusing",neutral
+15,2026-05-21,Pay & Save,5,Durban,iOS,The app is easy to use and very fast.,positive
+16,2026-05-22,Pay & Save,5,Cape Town,Web,"Love the new design, everything is smooth.",positive
+17,2026-05-23,Pay & Save,3,Johannesburg,Web,"Customer support was friendly, but vhe fees are expensive",neutral
+18,2026-05-25,Pay & Save,3,Durban,Web,It does what a banking app should do.,neutral
+19,2026-05-26,Pay & Save,3,Cape Town,iOS,"The app looks nice, but vhe login is confusing",neutral
+20,2026-05-27,InvestEasy,4,Cape Town,iOS,Transfers are instant and reliable.,positive
+21,2026-05-28,QuickCard,2,Johannesburg,iOS,"The interface is smooth, but vt crashes sometimes",neutral
+22,2026-05-30,QuickCard,5,Pretoria,Web,"Love the new design, everything is smooth. Transfers are instant and reliable.",positive
+23,2026-05-31,QuickCard,3,Cape Town,Android,Opened an account last week and linked my card.,neutral
+24,2026-06-01,Pay & Save,5,Cape Town,Android,"Love the new design, everything is smooth.",positive
+25,2026-06-02,Pay & Save,3,Johannesburg,Web,The latest update changed the home screen layout.,neutral
+26,2026-06-04,QuickCard,5,Pretoria,Android,"Great app, I can manage everything in one place.",positive
+27,2026-06-05,InvestEasy,5,Durban,Android,"Great app, I can manage everything in one place. The budgeting tools are brilliant and worth it.",positive
+28,2026-06-06,Pay & Save,4,Durban,Android,The app is easy to use and very fast.,positive
+29,2026-06-07,Pay & Save,3,Pretoria,iOS,The latest update changed the home screen layout.,neutral
+30,2026-06-09,InvestEasy,5,Johannesburg,Web,"The app is easy to use and very fast. Excellent security features, I feel safe.",positive
+31,2026-06-10,Pay & Save,3,Cape Town,Web,It does what a banking app should do.,neutral
+32,2026-06-11,InvestEasy,5,Durban,iOS,"The budgeting tools are brilliant and worth it. Love the new design, everything is smooth.",positive
+33,2026-06-12,QuickCard,5,Durban,Android,Transfers are instant and reliable.,positive
+34,2026-06-14,Pay & Save,3,Durban,Android,The latest update changed the home screen layout.,neutral
+35,2026-06-15,InvestEasy,5,Durban,Web,"Great app, I can manage everything in one place.",positive
+36,2026-06-16,QuickCard,5,Durban,iOS,"The app is easy to use and very fast. Love the new design, everything is smooth.",positive
+37,2026-06-17,QuickCard,3,Durban,Android,"Customer support was friendly, but the login is confusing",neutral
+38,2026-06-19,Pay & Save,1,Durban,Android,Very slow and confusing to navigate.,negative
+39,2026-06-20,QuickCard,5,Cape Town,Web,"Excellent security features, I feel safe. Transfers are instant and reliable.",positive
+40,2026-06-21,QuickCard,5,Durban,Android,"Great app, I can manage everything in one place.",positive
+41,2026-06-22,QuickCard,3,Pretoria,Web,I use QuickCard on my phone for monthly payments.,neutral
+42,2026-06-24,InvestEasy,3,Pretoria,iOS,"Customer support was friendly, but it crashes sometimes",neutral
+43,2026-06-25,Pay & Save,2,Pretoria,iOS,"Very slow and confusing to navigate. Login is broken after the update, useless.",negative
+44,2026-06-26,Pay & Save,5,Durban,Android,"Love the new design, everything is smooth.",positive
+45,2026-06-27,InvestEasy,4,Johannesburg,iOS,"Love the new design, everything is smooth. The app is easy to use and very fast.",positive
+46,2026-06-29,Pay & Save,5,Johannesburg,Web,"Excellent security features, I feel safe. The app is easy to use and very fast.",positive
+47,2026-06-30,InvestEasy,2,Pretoria,iOS,"The interface is smooth, but the fees are expensive",neutral
+48,2026-07-01,Pay & Save,3,Durban,Android,The latest update changed the home screen layout.,neutral
+49,2026-07-02,InvestEasy,5,Johannesburg,Android,"Love the new design, everything is smooth.",positive
+50,2026-07-04,InvestEasy,1,Cape Town,Web,"Login is broken after the update, useless.",negative
+51,2026-07-05,QuickCard,1,Durban,Web,The app keeps crashing every time I log in. Very slow and confusing to navigate.,negative
+52,2026-07-06,InvestEasy,4,Cape Town,iOS,Transfers are instant and reliable.,positive
+53,2026-07-07,Pay & Save,2,Johannesburg,iOS,"Hidden fees are unacceptable, I feel scammed. Login is broken after the update, useless.",negative
+54,2026-07-09,QuickCard,3,Johannesburg,Web,"Customer support was friendly, but verification took too long",neutral
+55,2026-07-10,QuickCard,5,Johannesburg,Web,The app is easy to use and very fast.,positive
+56,2026-07-11,InvestEasy,1,Johannesburg,iOS,"Hidden fees are unacceptable, I feel scammed. My payment failed and the money went missing.",negative
+57,2026-07-12,QuickCard,1,Cape Town,Web,"Hidden fees are unacceptable, I feel scammed. Login is broken after the update, useless.",negative
+58,2026-07-14,QuickCard,4,Durban,Android,"Excellent security features, I feel safe. Transfers are instant and reliable.",positive
+59,2026-07-15,Pay & Save,3,Cape Town,iOS,Opened an account last week and linked my card.,neutral
+60,2026-07-16,InvestEasy,3,Durban,Web,"The app looks nice, but it crashes sometimes",neutral
+61,2026-07-17,Pay & Save,3,Pretoria,Android,"The app looks nice, but terification took too long",neutral
+62,2026-07-19,Pay & Save,5,Cape Town,Web,"Excellent security features, I feel safe. Love the new design, everything is smooth.",positive
+63,2026-07-20,Pay & Save,4,Durban,iOS,"The app is easy to use and very fast. Excellent security features, I feel safe.",positive
+64,2026-07-21,QuickCard,1,Johannesburg,Android,"My payment failed and the money went missing. Login is broken after the update, useless.",negative
+65,2026-07-22,InvestEasy,4,Johannesburg,iOS,Transfers are instant and reliable.,positive
+66,2026-07-24,InvestEasy,4,Durban,iOS,The app is easy to use and very fast.,positive
+67,2026-07-25,InvestEasy,5,Johannesburg,iOS,"Love the new design, everything is smooth. Great app, I can manage everything in one place.",positive
+68,2026-07-26,InvestEasy,4,Cape Town,Android,"The interface is smooth, but ihe fees are expensive",neutral
+69,2026-07-27,QuickCard,2,Pretoria,iOS,"Customer support was friendly, but the login is confusing",neutral
+70,2026-07-29,InvestEasy,4,Cape Town,Web,"Transfers are quick, but terification took too long",neutral
+71,2026-07-30,Pay & Save,5,Johannesburg,iOS,"The app is easy to use and very fast. Great app, I can manage everything in one place.",positive
+72,2026-07-31,InvestEasy,5,Durban,Android,"Love the new design, everything is smooth. Great app, I can manage everything in one place.",positive
+73,2026-08-01,Pay & Save,3,Cape Town,Web,Opened an account last week and linked my card.,neutral
+74,2026-08-03,QuickCard,4,Johannesburg,Android,"Great app, I can manage everything in one place.",positive
+75,2026-08-04,InvestEasy,5,Durban,iOS,The app is easy to use and very fast.,positive
+76,2026-08-05,Pay & Save,3,Johannesburg,Android,"The interface is smooth, but tt crashes sometimes",neutral
+77,2026-08-06,Pay & Save,3,Cape Town,Android,Opened an account last week and linked my card.,neutral
+78,2026-08-08,InvestEasy,4,Durban,iOS,"The app looks nice, but the fees are expensive",neutral
+79,2026-08-09,Pay & Save,5,Durban,Android,"Great app, I can manage everything in one place.",positive
+80,2026-08-10,QuickCard,1,Cape Town,Android,"Hidden fees are unacceptable, I feel scammed.",negative
+81,2026-08-11,Pay & Save,5,Cape Town,Web,"The app is easy to use and very fast. Love the new design, everything is smooth.",positive
+82,2026-08-13,InvestEasy,5,Durban,Android,"The app is easy to use and very fast. Love the new design, everything is smooth.",positive
+83,2026-08-14,Pay & Save,4,Cape Town,Web,The budgeting tools are brilliant and worth it. The app is easy to use and very fast.,positive
+84,2026-08-15,Pay & Save,4,Johannesburg,iOS,The budgeting tools are brilliant and worth it.,positive
+85,2026-08-16,QuickCard,1,Pretoria,Android,"Hidden fees are unacceptable, I feel scammed.",negative
+86,2026-08-18,QuickCard,5,Cape Town,iOS,"Love the new design, everything is smooth.",positive
+87,2026-08-19,InvestEasy,4,Pretoria,Web,The budgeting tools are brilliant and worth it.,positive
+88,2026-08-20,Pay & Save,2,Pretoria,iOS,"Transfers are quick, but tt crashes sometimes",neutral
+89,2026-08-21,QuickCard,4,Cape Town,Web,"The interface is smooth, but vhe fees are expensive",neutral
+90,2026-08-23,QuickCard,1,Johannesburg,Android,My payment failed and the money went missing.,negative
+91,2026-08-24,QuickCard,5,Cape Town,iOS,"Great app, I can manage everything in one place. The app is easy to use and very fast.",positive
+92,2026-08-25,Pay & Save,5,Johannesburg,iOS,"The budgeting tools are brilliant and worth it. Great app, I can manage everything in one place.",positive
+93,2026-08-26,Pay & Save,3,Johannesburg,iOS,Opened an account last week and linked my card.,neutral
+94,2026-08-28,InvestEasy,3,Johannesburg,Web,Opened an account last week and linked my card.,neutral
+95,2026-08-29,InvestEasy,5,Durban,Web,The app is easy to use and very fast. The budgeting tools are brilliant and worth it.,positive
+96,2026-08-30,QuickCard,5,Durban,iOS,"Great app, I can manage everything in one place. Excellent security features, I feel safe.",positive
+97,2026-08-31,QuickCard,3,Johannesburg,Android,"Customer support was friendly, but the fees are expensive",neutral
+98,2026-09-02,InvestEasy,4,Johannesburg,Android,"The interface is smooth, but terification took too long",neutral
+99,2026-09-03,Pay & Save,4,Durban,Web,"Transfers are instant and reliable. Great app, I can manage everything in one place.",positive
+100,2026-09-04,QuickCard,3,Johannesburg,iOS,It does what a banking app should do.,neutral
+101,2026-09-05,QuickCard,2,Durban,Web,"Transfers are quick, but terification took too long",neutral
+102,2026-09-07,InvestEasy,4,Durban,iOS,Transfers are instant and reliable. The app is easy to use and very fast.,positive
+103,2026-09-08,QuickCard,5,Durban,Web,"Excellent security features, I feel safe. Love the new design, everything is smooth.",positive
+104,2026-09-09,QuickCard,1,Pretoria,Web,"Terrible support, they never answered my ticket. Login is broken after the update, useless.",negative
+105,2026-09-10,Pay & Save,3,Durban,Android,Notifications can be turned off in settings.,neutral
+106,2026-09-12,QuickCard,4,Cape Town,Web,The budgeting tools are brilliant and worth it.,positive
+107,2026-09-13,InvestEasy,5,Pretoria,Android,"The budgeting tools are brilliant and worth it. Great app, I can manage everything in one place.",positive
+108,2026-09-14,InvestEasy,5,Johannesburg,Web,The app is easy to use and very fast.,positive
+109,2026-09-15,InvestEasy,3,Durban,Android,Notifications can be turned off in settings.,neutral
+110,2026-09-17,InvestEasy,5,Cape Town,iOS,"Great app, I can manage everything in one place. The app is easy to use and very fast.",positive
+111,2026-09-18,QuickCard,5,Durban,Android,"Excellent security features, I feel safe. Love the new design, everything is smooth.",positive
+112,2026-09-19,Pay & Save,4,Durban,Web,"Excellent security features, I feel safe.",positive
+113,2026-09-20,Pay & Save,5,Johannesburg,Android,"Excellent security features, I feel safe. Transfers are instant and reliable.",positive
+114,2026-09-22,Pay & Save,5,Cape Town,Android,Transfers are instant and reliable.,positive
+115,2026-09-23,InvestEasy,5,Cape Town,Android,"Excellent security features, I feel safe. Great app, I can manage everything in one place.",positive
+116,2026-09-24,Pay & Save,3,Cape Town,Web,Opened an account last week and linked my card.,neutral
+117,2026-09-25,QuickCard,4,Johannesburg,iOS,"Great app, I can manage everything in one place.",positive
+118,2026-09-27,InvestEasy,4,Durban,iOS,"Excellent security features, I feel safe. The app is easy to use and very fast.",positive
+119,2026-09-28,Pay & Save,4,Durban,Web,"Love the new design, everything is smooth. Excellent security features, I feel safe.",positive
+120,2026-09-29,QuickCard,1,Durban,Android,"Hidden fees are unacceptable, I feel scammed.",negative

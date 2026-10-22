@@ -1,0 +1,251 @@
+id,date,customer,product,category,rating,review,location
+1000,2026-04-25,C100,Trail Backpack,Outdoor,1,"The Trail Backpack feels cheap and broke quickly, a waste of money.",Durban
+1001,2026-04-26,C101,Pulse Fitness Band,Electronics,5,Packaging was lovely and the Pulse Fitness Band arrived early. Would order again.,Johannesburg
+1002,2026-04-27,C102,Pulse Fitness Band,Electronics,5,Packaging was lovely and the Pulse Fitness Band arrived early. Would order again.,Johannesburg
+1003,2026-04-28,C103,Pulse Fitness Band,Electronics,3,The Pulse Fitness Band is great but delivery was slow.,Durban
+1004,2026-04-28,C104,PureBrew Kettle,Home,5,Customer service was extremely helpful and resolved my issue quickly.,Johannesburg
+1005,2026-04-29,C105,Pulse Fitness Band,Electronics,3,"Helpful staff, however the price is too expensive. Overall it is fine.",Pretoria
+1006,2026-04-30,C106,Pulse Fitness Band,Electronics,4,"Fast delivery and friendly staff, really happy with my Pulse Fitness Band.",Cape Town
+1007,2026-05-01,C107,Nimbus Smart Lamp,Home,3,"The Nimbus Smart Lamp does what it says, nothing more. Packaging was plain.",Pretoria
+1008,2026-05-01,C108,Trail Backpack,Outdoor,5,Customer service was extremely helpful and resolved my issue quickly. Highly recommend.,Pretoria
+1009,2026-05-02,C109,PureBrew Kettle,Home,5,Honestly impressed. The PureBrew Kettle feels solid and reliable. Arrived well packed.,Durban
+1010,2026-05-03,C110,Trail Backpack,Outdoor,3,"Not bad, though I expected better battery life.",Durban
+1011,2026-05-03,C111,PureBrew Kettle,Home,1,The delivery was late and nobody answered my emails. Very frustrating.,Pretoria
+1012,2026-05-04,C112,Trail Backpack,Outdoor,3,Good quality but the app is confusing and support was slow. Mixed feelings.,Pretoria
+1013,2026-05-05,C113,Aurora Headphones,Electronics,5,"Fast delivery and friendly staff, really happy with my Aurora Headphones. Would order again.",Pretoria
+1014,2026-05-06,C114,Aurora Headphones,Electronics,4,"Love the Aurora Headphones, easy to use and worth the price!",Gqeberha
+1015,2026-05-06,C115,Trail Backpack,Outdoor,3,Good quality but the app is confusing and support was slow.,Johannesburg
+1016,2026-05-07,C116,Nimbus Smart Lamp,Home,4,Honestly impressed. The Nimbus Smart Lamp feels solid and reliable. Highly recommend.,Durban
+1017,2026-05-08,C117,Aurora Headphones,Electronics,5,Packaging was lovely and the Aurora Headphones arrived early. Arrived well packed.,Gqeberha
+1018,2026-05-08,C118,Pulse Fitness Band,Electronics,3,I ordered the Pulse Fitness Band on Tuesday and it came in a standard box.,Gqeberha
+1019,2026-05-09,C119,PureBrew Kettle,Home,3,"Not bad, though I expected better battery life. Mixed feelings.",Cape Town
+1020,2026-05-10,C120,PureBrew Kettle,Home,5,"Fast delivery and friendly staff, really happy with my PureBrew Kettle.",Gqeberha
+1021,2026-05-11,C121,Aurora Headphones,Electronics,3,"It is a kettle, lamp or band like any other. Not sure yet. Will update later.",Durban
+1022,2026-05-11,C122,Trail Backpack,Outdoor,4,"Love the Trail Backpack, easy to use and worth the price! Highly recommend.",Pretoria
+1023,2026-05-12,C123,Trail Backpack,Outdoor,5,Customer service was extremely helpful and resolved my issue quickly.,Cape Town
+1024,2026-05-13,C124,Pulse Fitness Band,Electronics,5,Packaging was lovely and the Pulse Fitness Band arrived early. Arrived well packed.,Gqeberha
+1025,2026-05-13,C125,Trail Backpack,Outdoor,1,The delivery was late and nobody answered my emails.,Cape Town
+1026,2026-05-14,C126,Trail Backpack,Outdoor,3,Good quality but the app is confusing and support was slow.,Cape Town
+1027,2026-05-15,C127,Nimbus Smart Lamp,Home,1,Not happy. The Nimbus Smart Lamp arrived damaged and the process to return it was confusing.,Johannesburg
+1028,2026-05-16,C128,Aurora Headphones,Electronics,3,"Not bad, though I expected better battery life. Mixed feelings.",Durban
+1029,2026-05-16,C129,Trail Backpack,Outdoor,5,Customer service was extremely helpful and resolved my issue quickly. Would order again.,Gqeberha
+1030,2026-05-17,C130,Aurora Headphones,Electronics,5,Honestly impressed. The Aurora Headphones feels solid and reliable. Arrived well packed.,Pretoria
+1031,2026-05-18,C131,Nimbus Smart Lamp,Home,5,The Nimbus Smart Lamp works great and the quality is excellent.,Pretoria
+1032,2026-05-19,C132,PureBrew Kettle,Home,3,The PureBrew Kettle is great but delivery was slow.,Cape Town
+1033,2026-05-19,C133,Pulse Fitness Band,Electronics,1,Not happy. The Pulse Fitness Band arrived damaged and the process to return it was confusing. Very frustrating.,Durban
+1034,2026-05-20,C134,Nimbus Smart Lamp,Home,3,"Helpful staff, however the price is too expensive. Overall it is fine.",Pretoria
+1035,2026-05-21,C135,Nimbus Smart Lamp,Home,1,"My Nimbus Smart Lamp stopped working after a week, very disappointed. Will not recommend.",Gqeberha
+1036,2026-05-21,C136,Trail Backpack,Outdoor,5,"Love the Trail Backpack, easy to use and worth the price!",Pretoria
+1037,2026-05-22,C137,Pulse Fitness Band,Electronics,1,Slow shipping and the app keeps crashing.,Gqeberha
+1038,2026-05-23,C138,Nimbus Smart Lamp,Home,3,The Nimbus Smart Lamp is great but delivery was slow.,Cape Town
+1039,2026-05-24,C139,Nimbus Smart Lamp,Home,5,Packaging was lovely and the Nimbus Smart Lamp arrived early.,Gqeberha
+1040,2026-05-24,C140,Pulse Fitness Band,Electronics,3,The Pulse Fitness Band is great but delivery was slow.,Johannesburg
+1041,2026-05-25,C141,Aurora Headphones,Electronics,5,Packaging was lovely and the Aurora Headphones arrived early. Would order again.,Gqeberha
+1042,2026-05-26,C142,Pulse Fitness Band,Electronics,3,Good quality but the app is confusing and support was slow.,Cape Town
+1043,2026-05-26,C143,Pulse Fitness Band,Electronics,1,"Terrible support, rude staff and no refund.",Pretoria
+1044,2026-05-27,C144,Nimbus Smart Lamp,Home,5,"Love the Nimbus Smart Lamp, easy to use and worth the price!",Johannesburg
+1045,2026-05-28,C145,Nimbus Smart Lamp,Home,3,The Nimbus Smart Lamp is great but delivery was slow.,Durban
+1046,2026-05-29,C146,Nimbus Smart Lamp,Home,5,The Nimbus Smart Lamp works great and the quality is excellent.,Pretoria
+1047,2026-05-29,C147,PureBrew Kettle,Home,5,Honestly impressed. The PureBrew Kettle feels solid and reliable.,Gqeberha
+1048,2026-05-30,C148,PureBrew Kettle,Home,3,"Helpful staff, however the price is too expensive. Overall it is fine.",Gqeberha
+1049,2026-05-31,C149,PureBrew Kettle,Home,3,The PureBrew Kettle is great but delivery was slow. Mixed feelings.,Cape Town
+1050,2026-05-31,C150,Aurora Headphones,Electronics,5,"Fast delivery and friendly staff, really happy with my Aurora Headphones. Would order again.",Pretoria
+1051,2026-06-01,C151,Trail Backpack,Outdoor,5,Packaging was lovely and the Trail Backpack arrived early.,Johannesburg
+1052,2026-06-02,C152,Trail Backpack,Outdoor,5,Honestly impressed. The Trail Backpack feels solid and reliable. Would order again.,Johannesburg
+1053,2026-06-03,C153,Trail Backpack,Outdoor,5,The Trail Backpack works great and the quality is excellent. Would order again.,Gqeberha
+1054,2026-06-03,C154,PureBrew Kettle,Home,1,"Terrible support, rude staff and no refund.",Johannesburg
+1055,2026-06-04,C155,Nimbus Smart Lamp,Home,5,The Nimbus Smart Lamp works great and the quality is excellent. Highly recommend.,Cape Town
+1056,2026-06-05,C156,Trail Backpack,Outdoor,4,Honestly impressed. The Trail Backpack feels solid and reliable. Highly recommend.,Johannesburg
+1057,2026-06-06,C157,Aurora Headphones,Electronics,5,Packaging was lovely and the Aurora Headphones arrived early.,Pretoria
+1058,2026-06-06,C158,Aurora Headphones,Electronics,5,Honestly impressed. The Aurora Headphones feels solid and reliable.,Pretoria
+1059,2026-06-07,C159,Pulse Fitness Band,Electronics,5,The Pulse Fitness Band works great and the quality is excellent.,Cape Town
+1060,2026-06-08,C160,PureBrew Kettle,Home,1,The delivery was late and nobody answered my emails.,Durban
+1061,2026-06-08,C161,PureBrew Kettle,Home,5,Customer service was extremely helpful and resolved my issue quickly.,Durban
+1062,2026-06-09,C162,Pulse Fitness Band,Electronics,5,"Fast delivery and friendly staff, really happy with my Pulse Fitness Band. Would order again.",Durban
+1063,2026-06-10,C163,Trail Backpack,Outdoor,1,Slow shipping and the app keeps crashing. Will not recommend.,Durban
+1064,2026-06-11,C164,Nimbus Smart Lamp,Home,5,"Love the Nimbus Smart Lamp, easy to use and worth the price! Highly recommend.",Gqeberha
+1065,2026-06-11,C165,Aurora Headphones,Electronics,5,Customer service was extremely helpful and resolved my issue quickly. Arrived well packed.,Durban
+1066,2026-06-12,C166,Nimbus Smart Lamp,Home,5,Packaging was lovely and the Nimbus Smart Lamp arrived early.,Gqeberha
+1067,2026-06-13,C167,PureBrew Kettle,Home,1,Not happy. The PureBrew Kettle arrived damaged and the process to return it was confusing.,Cape Town
+1068,2026-06-13,C168,Aurora Headphones,Electronics,3,"Not bad, though I expected better battery life.",Gqeberha
+1069,2026-06-14,C169,Pulse Fitness Band,Electronics,3,The Pulse Fitness Band is great but delivery was slow.,Cape Town
+1070,2026-06-15,C170,Aurora Headphones,Electronics,4,The Aurora Headphones works great and the quality is excellent.,Pretoria
+1071,2026-06-16,C171,Pulse Fitness Band,Electronics,5,Customer service was extremely helpful and resolved my issue quickly.,Johannesburg
+1072,2026-06-16,C172,PureBrew Kettle,Home,1,Not happy. The PureBrew Kettle arrived damaged and the process to return it was confusing.,Gqeberha
+1073,2026-06-17,C173,Aurora Headphones,Electronics,3,"Not bad, though I expected better battery life. Overall it is fine.",Cape Town
+1074,2026-06-18,C174,Nimbus Smart Lamp,Home,3,"Average experience, delivery took about five days.",Durban
+1075,2026-06-18,C175,Aurora Headphones,Electronics,5,Honestly impressed. The Aurora Headphones feels solid and reliable. Arrived well packed.,Durban
+1076,2026-06-19,C176,Pulse Fitness Band,Electronics,3,The Pulse Fitness Band is great but delivery was slow.,Johannesburg
+1077,2026-06-20,C177,Nimbus Smart Lamp,Home,3,Good quality but the app is confusing and support was slow.,Johannesburg
+1078,2026-06-21,C178,Pulse Fitness Band,Electronics,5,Customer service was extremely helpful and resolved my issue quickly.,Gqeberha
+1079,2026-06-21,C179,PureBrew Kettle,Home,1,"The PureBrew Kettle feels cheap and broke quickly, a waste of money. Will not recommend.",Gqeberha
+1080,2026-06-22,C180,Trail Backpack,Outdoor,3,"The Trail Backpack does what it says, nothing more.",Johannesburg
+1081,2026-06-23,C181,Trail Backpack,Outdoor,5,"Love the Trail Backpack, easy to use and worth the price! Would order again.",Pretoria
+1082,2026-06-24,C182,PureBrew Kettle,Home,5,The PureBrew Kettle works great and the quality is excellent.,Durban
+1083,2026-06-24,C183,Aurora Headphones,Electronics,5,"Fast delivery and friendly staff, really happy with my Aurora Headphones.",Johannesburg
+1084,2026-06-25,C184,Trail Backpack,Outdoor,5,Customer service was extremely helpful and resolved my issue quickly. Arrived well packed.,Durban
+1085,2026-06-26,C185,Aurora Headphones,Electronics,5,Customer service was extremely helpful and resolved my issue quickly.,Cape Town
+1086,2026-06-26,C186,Trail Backpack,Outdoor,5,"Fast delivery and friendly staff, really happy with my Trail Backpack. Highly recommend.",Johannesburg
+1087,2026-06-27,C187,PureBrew Kettle,Home,1,Slow shipping and the app keeps crashing.,Pretoria
+1088,2026-06-28,C188,PureBrew Kettle,Home,3,"The PureBrew Kettle does what it says, nothing more.",Gqeberha
+1089,2026-06-29,C189,Nimbus Smart Lamp,Home,5,"Love the Nimbus Smart Lamp, easy to use and worth the price! Highly recommend.",Durban
+1090,2026-06-29,C190,PureBrew Kettle,Home,1,"Terrible support, rude staff and no refund.",Cape Town
+1091,2026-06-30,C191,Aurora Headphones,Electronics,5,"Love the Aurora Headphones, easy to use and worth the price!",Pretoria
+1092,2026-07-01,C192,PureBrew Kettle,Home,5,The PureBrew Kettle works great and the quality is excellent. Would order again.,Cape Town
+1093,2026-07-01,C193,Trail Backpack,Outdoor,5,Packaging was lovely and the Trail Backpack arrived early. Would order again.,Pretoria
+1094,2026-07-02,C194,Pulse Fitness Band,Electronics,5,"Fast delivery and friendly staff, really happy with my Pulse Fitness Band. Would order again.",Durban
+1095,2026-07-03,C195,Nimbus Smart Lamp,Home,3,"Helpful staff, however the price is too expensive. Overall it is fine.",Pretoria
+1096,2026-07-04,C196,Trail Backpack,Outdoor,3,The Trail Backpack is great but delivery was slow. Mixed feelings.,Pretoria
+1097,2026-07-04,C197,Pulse Fitness Band,Electronics,4,Customer service was extremely helpful and resolved my issue quickly. Arrived well packed.,Cape Town
+1098,2026-07-05,C198,Aurora Headphones,Electronics,5,The Aurora Headphones works great and the quality is excellent.,Pretoria
+1099,2026-07-06,C199,Aurora Headphones,Electronics,5,Customer service was extremely helpful and resolved my issue quickly. Would order again.,Durban
+1100,2026-07-06,C200,Nimbus Smart Lamp,Home,3,"Not bad, though I expected better battery life.",Gqeberha
+1101,2026-07-07,C201,Pulse Fitness Band,Electronics,5,"Fast delivery and friendly staff, really happy with my Pulse Fitness Band. Arrived well packed.",Pretoria
+1102,2026-07-08,C202,Trail Backpack,Outdoor,3,"The Trail Backpack does what it says, nothing more.",Pretoria
+1103,2026-07-09,C203,Trail Backpack,Outdoor,5,The Trail Backpack works great and the quality is excellent.,Durban
+1104,2026-07-09,C204,Nimbus Smart Lamp,Home,3,Good quality but the app is confusing and support was slow. Overall it is fine.,Durban
+1105,2026-07-10,C205,PureBrew Kettle,Home,5,"Fast delivery and friendly staff, really happy with my PureBrew Kettle.",Cape Town
+1106,2026-07-11,C206,Trail Backpack,Outdoor,3,"Helpful staff, however the price is too expensive. Overall it is fine.",Johannesburg
+1107,2026-07-12,C207,Pulse Fitness Band,Electronics,5,The Pulse Fitness Band works great and the quality is excellent.,Johannesburg
+1108,2026-07-12,C208,Pulse Fitness Band,Electronics,4,"Love the Pulse Fitness Band, easy to use and worth the price! Would order again.",Johannesburg
+1109,2026-07-13,C209,Aurora Headphones,Electronics,4,"Love the Aurora Headphones, easy to use and worth the price!",Johannesburg
+1110,2026-07-14,C210,Nimbus Smart Lamp,Home,5,The Nimbus Smart Lamp works great and the quality is excellent.,Durban
+1111,2026-07-14,C211,PureBrew Kettle,Home,1,"Terrible support, rude staff and no refund.",Johannesburg
+1112,2026-07-15,C212,Trail Backpack,Outdoor,5,Customer service was extremely helpful and resolved my issue quickly.,Durban
+1113,2026-07-16,C213,PureBrew Kettle,Home,5,Honestly impressed. The PureBrew Kettle feels solid and reliable.,Cape Town
+1114,2026-07-17,C214,Trail Backpack,Outdoor,5,"Love the Trail Backpack, easy to use and worth the price! Highly recommend.",Pretoria
+1115,2026-07-17,C215,Aurora Headphones,Electronics,5,"Love the Aurora Headphones, easy to use and worth the price! Would order again.",Gqeberha
+1116,2026-07-18,C216,Trail Backpack,Outdoor,5,"Fast delivery and friendly staff, really happy with my Trail Backpack.",Durban
+1117,2026-07-19,C217,Trail Backpack,Outdoor,4,Honestly impressed. The Trail Backpack feels solid and reliable.,Johannesburg
+1118,2026-07-19,C218,Aurora Headphones,Electronics,3,The Aurora Headphones is great but delivery was slow.,Pretoria
+1119,2026-07-20,C219,Trail Backpack,Outdoor,3,"Average experience, delivery took about five days. Packaging was plain.",Durban
+1120,2026-07-21,C220,Nimbus Smart Lamp,Home,3,Good quality but the app is confusing and support was slow.,Gqeberha
+1121,2026-07-22,C221,Aurora Headphones,Electronics,5,"Love the Aurora Headphones, easy to use and worth the price!",Johannesburg
+1122,2026-07-22,C222,PureBrew Kettle,Home,3,Good quality but the app is confusing and support was slow. Mixed feelings.,Durban
+1123,2026-07-23,C223,Pulse Fitness Band,Electronics,4,Customer service was extremely helpful and resolved my issue quickly.,Cape Town
+1124,2026-07-24,C224,Nimbus Smart Lamp,Home,5,"Love the Nimbus Smart Lamp, easy to use and worth the price!",Johannesburg
+1125,2026-07-24,C225,Trail Backpack,Outdoor,5,Packaging was lovely and the Trail Backpack arrived early. Highly recommend.,Cape Town
+1126,2026-07-25,C226,Nimbus Smart Lamp,Home,5,The Nimbus Smart Lamp works great and the quality is excellent. Arrived well packed.,Durban
+1127,2026-07-26,C227,Nimbus Smart Lamp,Home,5,The Nimbus Smart Lamp works great and the quality is excellent.,Johannesburg
+1128,2026-07-27,C228,Aurora Headphones,Electronics,4,The Aurora Headphones works great and the quality is excellent.,Durban
+1129,2026-07-27,C229,Nimbus Smart Lamp,Home,4,The Nimbus Smart Lamp works great and the quality is excellent.,Johannesburg
+1130,2026-07-28,C230,Trail Backpack,Outdoor,5,The Trail Backpack works great and the quality is excellent.,Johannesburg
+1131,2026-07-29,C231,Aurora Headphones,Electronics,5,Honestly impressed. The Aurora Headphones feels solid and reliable.,Cape Town
+1132,2026-07-30,C232,Aurora Headphones,Electronics,5,"Fast delivery and friendly staff, really happy with my Aurora Headphones. Arrived well packed.",Johannesburg
+1133,2026-07-30,C233,Trail Backpack,Outdoor,5,"Fast delivery and friendly staff, really happy with my Trail Backpack. Highly recommend.",Pretoria
+1134,2026-07-31,C234,Pulse Fitness Band,Electronics,5,"Love the Pulse Fitness Band, easy to use and worth the price! Highly recommend.",Gqeberha
+1135,2026-08-01,C235,Aurora Headphones,Electronics,5,"Love the Aurora Headphones, easy to use and worth the price!",Durban
+1136,2026-08-01,C236,PureBrew Kettle,Home,1,"Terrible support, rude staff and no refund.",Johannesburg
+1137,2026-08-02,C237,Trail Backpack,Outdoor,5,"Love the Trail Backpack, easy to use and worth the price!",Cape Town
+1138,2026-08-03,C238,PureBrew Kettle,Home,4,Customer service was extremely helpful and resolved my issue quickly.,Cape Town
+1139,2026-08-04,C239,Nimbus Smart Lamp,Home,5,Packaging was lovely and the Nimbus Smart Lamp arrived early. Highly recommend.,Durban
+1140,2026-08-04,C240,Pulse Fitness Band,Electronics,5,"Fast delivery and friendly staff, really happy with my Pulse Fitness Band. Arrived well packed.",Pretoria
+1141,2026-08-05,C241,PureBrew Kettle,Home,1,"My PureBrew Kettle stopped working after a week, very disappointed. Will not recommend.",Johannesburg
+1142,2026-08-06,C242,Pulse Fitness Band,Electronics,2,"The Pulse Fitness Band feels cheap and broke quickly, a waste of money. Very frustrating.",Cape Town
+1143,2026-08-06,C243,Nimbus Smart Lamp,Home,3,"Helpful staff, however the price is too expensive.",Pretoria
+1144,2026-08-07,C244,Pulse Fitness Band,Electronics,4,"Fast delivery and friendly staff, really happy with my Pulse Fitness Band. Would order again.",Cape Town
+1145,2026-08-08,C245,Aurora Headphones,Electronics,3,The Aurora Headphones is great but delivery was slow.,Pretoria
+1146,2026-08-09,C246,Pulse Fitness Band,Electronics,1,"Terrible support, rude staff and no refund.",Pretoria
+1147,2026-08-09,C247,Trail Backpack,Outdoor,5,"Love the Trail Backpack, easy to use and worth the price! Would order again.",Cape Town
+1148,2026-08-10,C248,PureBrew Kettle,Home,1,"The PureBrew Kettle feels cheap and broke quickly, a waste of money.",Johannesburg
+1149,2026-08-11,C249,Nimbus Smart Lamp,Home,5,"Fast delivery and friendly staff, really happy with my Nimbus Smart Lamp. Highly recommend.",Johannesburg
+1150,2026-08-11,C250,Nimbus Smart Lamp,Home,5,Honestly impressed. The Nimbus Smart Lamp feels solid and reliable. Arrived well packed.,Gqeberha
+1151,2026-08-12,C251,PureBrew Kettle,Home,3,"The PureBrew Kettle does what it says, nothing more. Will update later.",Johannesburg
+1152,2026-08-13,C252,Nimbus Smart Lamp,Home,5,"Love the Nimbus Smart Lamp, easy to use and worth the price! Would order again.",Cape Town
+1153,2026-08-14,C253,Aurora Headphones,Electronics,3,Good quality but the app is confusing and support was slow. Mixed feelings.,Durban
+1154,2026-08-14,C254,Pulse Fitness Band,Electronics,1,"The Pulse Fitness Band feels cheap and broke quickly, a waste of money. Waited two weeks for a reply.",Durban
+1155,2026-08-15,C255,Aurora Headphones,Electronics,5,"Love the Aurora Headphones, easy to use and worth the price! Highly recommend.",Cape Town
+1156,2026-08-16,C256,Trail Backpack,Outdoor,4,Packaging was lovely and the Trail Backpack arrived early. Highly recommend.,Gqeberha
+1157,2026-08-17,C257,Pulse Fitness Band,Electronics,3,The Pulse Fitness Band is great but delivery was slow. Mixed feelings.,Pretoria
+1158,2026-08-17,C258,Trail Backpack,Outdoor,5,"Fast delivery and friendly staff, really happy with my Trail Backpack. Would order again.",Johannesburg
+1159,2026-08-18,C259,Trail Backpack,Outdoor,3,Good quality but the app is confusing and support was slow. Mixed feelings.,Cape Town
+1160,2026-08-19,C260,Nimbus Smart Lamp,Home,5,Honestly impressed. The Nimbus Smart Lamp feels solid and reliable.,Cape Town
+1161,2026-08-19,C261,PureBrew Kettle,Home,5,Honestly impressed. The PureBrew Kettle feels solid and reliable. Would order again.,Johannesburg
+1162,2026-08-20,C262,Pulse Fitness Band,Electronics,5,The Pulse Fitness Band works great and the quality is excellent.,Durban
+1163,2026-08-21,C263,Pulse Fitness Band,Electronics,3,"The Pulse Fitness Band does what it says, nothing more. Will update later.",Johannesburg
+1164,2026-08-22,C264,Nimbus Smart Lamp,Home,3,Received the Nimbus Smart Lamp. Still testing it.,Gqeberha
+1165,2026-08-22,C265,Trail Backpack,Outdoor,4,Packaging was lovely and the Trail Backpack arrived early.,Cape Town
+1166,2026-08-23,C266,Nimbus Smart Lamp,Home,1,The delivery was late and nobody answered my emails. Will not recommend.,Johannesburg
+1167,2026-08-24,C267,Aurora Headphones,Electronics,5,Packaging was lovely and the Aurora Headphones arrived early.,Gqeberha
+1168,2026-08-24,C268,Pulse Fitness Band,Electronics,3,"Not bad, though I expected better battery life.",Durban
+1169,2026-08-25,C269,Aurora Headphones,Electronics,3,"Average experience, delivery took about five days.",Pretoria
+1170,2026-08-26,C270,Aurora Headphones,Electronics,5,"Love the Aurora Headphones, easy to use and worth the price! Would order again.",Johannesburg
+1171,2026-08-27,C271,Trail Backpack,Outdoor,3,Good quality but the app is confusing and support was slow.,Pretoria
+1172,2026-08-27,C272,Pulse Fitness Band,Electronics,1,"Terrible support, rude staff and no refund.",Gqeberha
+1173,2026-08-28,C273,Aurora Headphones,Electronics,5,The Aurora Headphones works great and the quality is excellent.,Durban
+1174,2026-08-29,C274,Nimbus Smart Lamp,Home,3,Received the Nimbus Smart Lamp. Still testing it.,Gqeberha
+1175,2026-08-29,C275,PureBrew Kettle,Home,3,The PureBrew Kettle is great but delivery was slow.,Gqeberha
+1176,2026-08-30,C276,Trail Backpack,Outdoor,3,"Not bad, though I expected better battery life.",Cape Town
+1177,2026-08-31,C277,Aurora Headphones,Electronics,5,Customer service was extremely helpful and resolved my issue quickly.,Johannesburg
+1178,2026-09-01,C278,Aurora Headphones,Electronics,5,Honestly impressed. The Aurora Headphones feels solid and reliable.,Johannesburg
+1179,2026-09-01,C279,Aurora Headphones,Electronics,3,Good quality but the app is confusing and support was slow. Overall it is fine.,Pretoria
+1180,2026-09-02,C280,Aurora Headphones,Electronics,4,The Aurora Headphones works great and the quality is excellent. Would order again.,Johannesburg
+1181,2026-09-03,C281,Trail Backpack,Outdoor,5,The Trail Backpack works great and the quality is excellent. Arrived well packed.,Pretoria
+1182,2026-09-04,C282,Trail Backpack,Outdoor,5,"Fast delivery and friendly staff, really happy with my Trail Backpack.",Durban
+1183,2026-09-04,C283,Pulse Fitness Band,Electronics,5,"Fast delivery and friendly staff, really happy with my Pulse Fitness Band.",Pretoria
+1184,2026-09-05,C284,Pulse Fitness Band,Electronics,3,Received the Pulse Fitness Band. Still testing it.,Johannesburg
+1185,2026-09-06,C285,Pulse Fitness Band,Electronics,3,"The Pulse Fitness Band does what it says, nothing more.",Johannesburg
+1186,2026-09-06,C286,Aurora Headphones,Electronics,5,Customer service was extremely helpful and resolved my issue quickly.,Pretoria
+1187,2026-09-07,C287,Pulse Fitness Band,Electronics,5,Packaging was lovely and the Pulse Fitness Band arrived early. Would order again.,Cape Town
+1188,2026-09-08,C288,PureBrew Kettle,Home,5,Honestly impressed. The PureBrew Kettle feels solid and reliable.,Gqeberha
+1189,2026-09-09,C289,Aurora Headphones,Electronics,4,"Fast delivery and friendly staff, really happy with my Aurora Headphones. Highly recommend.",Pretoria
+1190,2026-09-09,C290,Aurora Headphones,Electronics,5,"Fast delivery and friendly staff, really happy with my Aurora Headphones. Arrived well packed.",Cape Town
+1191,2026-09-10,C291,PureBrew Kettle,Home,5,Packaging was lovely and the PureBrew Kettle arrived early.,Durban
+1192,2026-09-11,C292,Pulse Fitness Band,Electronics,5,The Pulse Fitness Band works great and the quality is excellent.,Durban
+1193,2026-09-11,C293,Nimbus Smart Lamp,Home,5,Honestly impressed. The Nimbus Smart Lamp feels solid and reliable.,Pretoria
+1194,2026-09-12,C294,Nimbus Smart Lamp,Home,4,"Fast delivery and friendly staff, really happy with my Nimbus Smart Lamp. Arrived well packed.",Cape Town
+1195,2026-09-13,C295,Nimbus Smart Lamp,Home,3,Good quality but the app is confusing and support was slow. Mixed feelings.,Johannesburg
+1196,2026-09-14,C296,Nimbus Smart Lamp,Home,1,The delivery was late and nobody answered my emails. Will not recommend.,Durban
+1197,2026-09-14,C297,PureBrew Kettle,Home,5,Customer service was extremely helpful and resolved my issue quickly.,Pretoria
+1198,2026-09-15,C298,PureBrew Kettle,Home,5,"Love the PureBrew Kettle, easy to use and worth the price!",Durban
+1199,2026-09-16,C299,PureBrew Kettle,Home,5,"Fast delivery and friendly staff, really happy with my PureBrew Kettle.",Pretoria
+1200,2026-09-16,C300,Pulse Fitness Band,Electronics,3,"Not bad, though I expected better battery life.",Gqeberha
+1201,2026-09-17,C301,Nimbus Smart Lamp,Home,3,The Nimbus Smart Lamp is great but delivery was slow.,Johannesburg
+1202,2026-09-18,C302,PureBrew Kettle,Home,5,"Love the PureBrew Kettle, easy to use and worth the price!",Pretoria
+1203,2026-09-19,C303,PureBrew Kettle,Home,3,"Not bad, though I expected better battery life.",Durban
+1204,2026-09-19,C304,Aurora Headphones,Electronics,5,"Love the Aurora Headphones, easy to use and worth the price!",Cape Town
+1205,2026-09-20,C305,Nimbus Smart Lamp,Home,3,"Helpful staff, however the price is too expensive.",Gqeberha
+1206,2026-09-21,C306,Nimbus Smart Lamp,Home,3,The Nimbus Smart Lamp is great but delivery was slow.,Pretoria
+1207,2026-09-22,C307,PureBrew Kettle,Home,5,Honestly impressed. The PureBrew Kettle feels solid and reliable. Arrived well packed.,Gqeberha
+1208,2026-09-22,C308,Trail Backpack,Outdoor,5,"Fast delivery and friendly staff, really happy with my Trail Backpack. Highly recommend.",Pretoria
+1209,2026-09-23,C309,Trail Backpack,Outdoor,5,Customer service was extremely helpful and resolved my issue quickly. Arrived well packed.,Cape Town
+1210,2026-09-24,C310,PureBrew Kettle,Home,3,"Helpful staff, however the price is too expensive. Overall it is fine.",Pretoria
+1211,2026-09-24,C311,Pulse Fitness Band,Electronics,3,"Helpful staff, however the price is too expensive. Mixed feelings.",Gqeberha
+1212,2026-09-25,C312,Nimbus Smart Lamp,Home,3,"Not bad, though I expected better battery life. Overall it is fine.",Durban
+1213,2026-09-26,C313,PureBrew Kettle,Home,3,"Average experience, delivery took about five days. Packaging was plain.",Durban
+1214,2026-09-27,C314,PureBrew Kettle,Home,3,The PureBrew Kettle is great but delivery was slow.,Pretoria
+1215,2026-09-27,C315,Aurora Headphones,Electronics,5,Packaging was lovely and the Aurora Headphones arrived early.,Durban
+1216,2026-09-28,C316,Pulse Fitness Band,Electronics,5,Customer service was extremely helpful and resolved my issue quickly. Would order again.,Johannesburg
+1217,2026-09-29,C317,Pulse Fitness Band,Electronics,5,The Pulse Fitness Band works great and the quality is excellent. Highly recommend.,Pretoria
+1218,2026-09-29,C318,Pulse Fitness Band,Electronics,5,Honestly impressed. The Pulse Fitness Band feels solid and reliable.,Gqeberha
+1219,2026-09-30,C319,Trail Backpack,Outdoor,5,Honestly impressed. The Trail Backpack feels solid and reliable. Would order again.,Johannesburg
+1220,2026-10-01,C320,Pulse Fitness Band,Electronics,5,"Love the Pulse Fitness Band, easy to use and worth the price! Would order again.",Pretoria
+1221,2026-10-02,C321,PureBrew Kettle,Home,1,Not happy. The PureBrew Kettle arrived damaged and the process to return it was confusing.,Johannesburg
+1222,2026-10-02,C322,Nimbus Smart Lamp,Home,3,"Average experience, delivery took about five days.",Pretoria
+1223,2026-10-03,C323,Trail Backpack,Outdoor,5,Honestly impressed. The Trail Backpack feels solid and reliable. Arrived well packed.,Johannesburg
+1224,2026-10-04,C324,Pulse Fitness Band,Electronics,5,Honestly impressed. The Pulse Fitness Band feels solid and reliable.,Gqeberha
+1225,2026-10-04,C325,PureBrew Kettle,Home,3,"Helpful staff, however the price is too expensive. Mixed feelings.",Durban
+1226,2026-10-05,C326,Trail Backpack,Outdoor,4,Packaging was lovely and the Trail Backpack arrived early.,Durban
+1227,2026-10-06,C327,PureBrew Kettle,Home,5,Customer service was extremely helpful and resolved my issue quickly.,Pretoria
+1228,2026-10-07,C328,Trail Backpack,Outdoor,5,"Fast delivery and friendly staff, really happy with my Trail Backpack.",Pretoria
+1229,2026-10-07,C329,Aurora Headphones,Electronics,5,"Fast delivery and friendly staff, really happy with my Aurora Headphones.",Johannesburg
+1230,2026-10-08,C330,Aurora Headphones,Electronics,5,Packaging was lovely and the Aurora Headphones arrived early.,Durban
+1231,2026-10-09,C331,Aurora Headphones,Electronics,5,The Aurora Headphones works great and the quality is excellent.,Johannesburg
+1232,2026-10-10,C332,Pulse Fitness Band,Electronics,1,Slow shipping and the app keeps crashing. Will not recommend.,Gqeberha
+1233,2026-10-10,C333,Aurora Headphones,Electronics,5,Honestly impressed. The Aurora Headphones feels solid and reliable.,Cape Town
+1234,2026-10-11,C334,Aurora Headphones,Electronics,5,Customer service was extremely helpful and resolved my issue quickly.,Cape Town
+1235,2026-10-12,C335,Trail Backpack,Outdoor,5,"Fast delivery and friendly staff, really happy with my Trail Backpack.",Johannesburg
+1236,2026-10-12,C336,PureBrew Kettle,Home,3,The PureBrew Kettle is great but delivery was slow.,Pretoria
+1237,2026-10-13,C337,Pulse Fitness Band,Electronics,3,"Not bad, though I expected better battery life.",Gqeberha
+1238,2026-10-14,C338,Nimbus Smart Lamp,Home,5,"Love the Nimbus Smart Lamp, easy to use and worth the price!",Cape Town
+1239,2026-10-15,C339,Aurora Headphones,Electronics,5,Customer service was extremely helpful and resolved my issue quickly.,Johannesburg
+1240,2026-10-15,C340,Nimbus Smart Lamp,Home,3,"The Nimbus Smart Lamp does what it says, nothing more.",Pretoria
+1241,2026-10-16,C341,Nimbus Smart Lamp,Home,3,Received the Nimbus Smart Lamp. Still testing it.,Johannesburg
+1242,2026-10-17,C342,Trail Backpack,Outdoor,5,Honestly impressed. The Trail Backpack feels solid and reliable.,Johannesburg
+1243,2026-10-17,C343,Aurora Headphones,Electronics,5,Customer service was extremely helpful and resolved my issue quickly.,Pretoria
+1244,2026-10-18,C344,Trail Backpack,Outdoor,5,Packaging was lovely and the Trail Backpack arrived early. Highly recommend.,Gqeberha
+1245,2026-10-19,C345,PureBrew Kettle,Home,3,"Helpful staff, however the price is too expensive. Overall it is fine.",Pretoria
+1246,2026-10-20,C346,PureBrew Kettle,Home,5,"Love the PureBrew Kettle, easy to use and worth the price!",Durban
+1247,2026-10-20,C347,Trail Backpack,Outdoor,4,Honestly impressed. The Trail Backpack feels solid and reliable.,Gqeberha
+1248,2026-10-21,C348,Aurora Headphones,Electronics,5,Packaging was lovely and the Aurora Headphones arrived early.,Cape Town
+1249,2026-10-22,C349,PureBrew Kettle,Home,4,"Love the PureBrew Kettle, easy to use and worth the price!",Durban
