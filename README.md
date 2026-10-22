@@ -6,7 +6,7 @@ An interactive web app that reads customer feedback (reviews, comments, support 
 
 **Live app:** _add your Streamlit link here_ · **Author:** _add your name here_
 
-![Dashboard preview](docs/dashboard-preview.png)
+![Dashboard preview](dashboard-preview.png)
 
 > The images in this README were generated from the app's own analysis of the built-in sample dataset (250 synthetic reviews), so the numbers shown are real outputs of the code.
 
