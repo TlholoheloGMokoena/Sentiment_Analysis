@@ -1,4 +1,4 @@
-# 📊 AI-Powered Customer Sentiment Analysis & Insights Dashboard
+#  AI-Powered Customer Sentiment Analysis & Insights Dashboard
 
 **Week 3 – Sentiment Analysis & Data Insights** · Theme: *AI for Data Analysis & Insights*
 
