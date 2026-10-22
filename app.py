@@ -71,7 +71,7 @@ def p_dashboard():
     n, P, N = len(df), (df.Predicted == "Positive").sum(), (df.Predicted == "Negative").sum(); m = df.Score.mean()
     ds = df._date.dropna() if "_date" in df else pd.Series(dtype="datetime64[ns]")
     rng = f" · {ds.min():%b %Y} – {ds.max():%b %Y}" if len(ds) else ""
-    st.caption(f"{n:,} records analyzed{rng} · overall tone {'positive' if m >= .15 else 'negative' if m <= -.15 else 'mixed/neutral'}")
+    st.caption(f"{n:,} records analyzed{rng} · Overall Tone {'Positive' if m >= .15 else 'Negative' if m <= -.15 else 'Mixed/neutral'}")
     delta = None
     if len(ds) >= 10:
         d = df.dropna(subset=["_date"]).sort_values("_date"); h = len(d) // 2; delta = f"{d.Score.iloc[h:].mean() - d.Score.iloc[:h].mean():+.2f} vs earlier half"
