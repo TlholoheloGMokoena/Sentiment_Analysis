@@ -45,7 +45,7 @@ Companies collect thousands of comments, but nobody can read them all, and text 
 - **Honest model information:** accuracy, precision, recall and F1 are shown **only** when the file contains labelled sentiment values.
 
 ## How it works
-![Architecture](docs/architecture.png)
+![Architecture](architecture.png)
 
 | Stage | What happens | Code |
 |---|---|---|
@@ -59,7 +59,7 @@ Companies collect thousands of comments, but nobody can read them all, and text 
 ## The sentiment model
 The default model is a **lexicon-and-rules classifier** in the style of VADER. It is fast, needs no training data and every score can be explained.
 
-![Scoring examples](docs/scoring.png)
+![Scoring examples](scoring.png)
 
 1. A hand-built dictionary gives each sentiment word a weight (for example *excellent* is strongly positive and *terrible* strongly negative).
 2. **Intensifiers** such as *very* and *extremely* boost the weight of the next words; *slightly* and *somewhat* reduce it.
@@ -72,7 +72,7 @@ The default model is a **lexicon-and-rules classifier** in the style of VADER. I
 The model is one function, `predict()` in `sentiment.py`. To use Naive Bayes, TF-IDF with logistic regression, DistilBERT or an API-based model, replace that function with one that returns the same fields.
 
 ### Keywords in the sample data
-![Top keywords](docs/keywords.png)
+![Top keywords](keywords.png)
 
 Keywords are counted per review, so a phrase like "not good" still contributes the word *good* to the keyword list even though the model scores the whole sentence as negative. Read keyword lists as "words that appear in positive or negative reviews", not as sentiment scores on their own.
 
